@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+:root {
+    
+    --cor1: #dacb79;
+    --cor2: #33CC99;
+    --cor3: #238f6b;
+    --cor4: #befabe;
+    --cor5: #a6e4ba;
+    --cor6: #309b52;
+}
+
+* { /*Esta tag permite mudar a configuração de todo o arquivo html
+    por exemplo: colocar margin 0px e padding 0px*/
+
+
+}
+
